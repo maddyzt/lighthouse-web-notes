@@ -1,3 +1,8 @@
 # Maddy's Notes
 
-## This repository contains all of the notes taken by [Maddy](https://github.com/maddyzt) for the Lighthouse Labs Web Development Bootcamp.
+## Summary
+#### This repository contains all of the notes taken by [Maddy](https://github.com/maddyzt) for the Lighthouse Labs Web Development Bootcamp.
+
+## Table of Contents
+* [Week 1](/Week_1)
+  * [Day 1](/Week_1/Day_1)
